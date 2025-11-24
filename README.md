@@ -1,4 +1,4 @@
-# Lab_Assign_5# LAB_ASSIGN-_JAVA_5
+# Lab_Assign_5
 
 
 📘 Student Management System (Java, OOP, File Handling, Exceptions)
